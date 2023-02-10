@@ -11,7 +11,6 @@ export default function Home() {
       </Head>
       <main className="">
         <h2 className="text-center mt-5">Hello Full Stack Force</h2>
-        <h1 className="text-center mt-5">Welcome to Super Hostel</h1>
       </main>
     </>
   );
